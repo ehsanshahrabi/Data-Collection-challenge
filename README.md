@@ -6,7 +6,7 @@ In this part, you will use Splinter and BeautifulSoup to scrape titles and previ
 
 ## Deliverable 2: Scrape and Analyze Mars Weather Data
 
-In this part, you will again use Splinter and BeautifulSoup to scrape Mars weather data from a table on another website. Following the scraping, you will perform data analysis using Pandas to answer specific questions related to the weather on Mars.
+In this part, again use Splinter and BeautifulSoup to scrape Mars weather data from a table on another website. Following the scraping, you will perform data analysis using Pandas to answer specific questions related to the weather on Mars.
 
 ## Technical Details
 
@@ -46,6 +46,8 @@ Perform data analysis using Pandas functions to answer specific questions about 
 The data analysis in 01-part_2_mars_weather.ipynb answers several key questions about Mars weather data:
 
 How many months exist on Mars? (Answer: 12 months)
+
+![Screenshot 2023-07-26 094823](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/65d3ed3b-66ce-4818-94ef-7293a98be7ad)
 
 How many Martian (and not Earth) days worth of data exist in the scraped dataset? (Answer: 1867 Martian days)
 
