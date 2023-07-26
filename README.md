@@ -51,8 +51,6 @@ How many months exist on Mars? (Answer: 12 months)
 
 How many Martian (and not Earth) days worth of data exist in the scraped dataset? (Answer: 1867 Martian days)
 
-![Screenshot 2023-07-26 094838](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/6a96a29e-8543-4503-9916-b5fca9b907dc)
-
 What are the coldest and warmest months on Mars (at the location of Curiosity)? (Answer: The third month is the coldest, and the eighth month is the warmest)
 
 ![Screenshot 2023-07-26 094906](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/6752a75d-c8e5-41f3-af5e-3386135166c1)
