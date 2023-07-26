@@ -55,8 +55,12 @@ How many Martian (and not Earth) days worth of data exist in the scraped dataset
 
 What are the coldest and warmest months on Mars (at the location of Curiosity)? (Answer: The third month is the coldest, and the eighth month is the warmest)
 
-![Screenshot 2023-07-26 094851](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/a6f04186-03e8-4dbb-9081-f573709af3d3)
+![Screenshot 2023-07-26 094906](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/6752a75d-c8e5-41f3-af5e-3386135166c1)
 
 Which months have the lowest and highest atmospheric pressure on Mars? (Answer: The sixth month has the lowest pressure, and the ninth month has the highest pressure)
 
+![Screenshot 2023-07-26 094930](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/6d082ea3-c651-44c0-acf4-2d516153109d)
+
 About how many terrestrial (Earth) days exist in a Martian year? (Answer: Roughly 675 days, equivalent to 687 Earth days)
+
+![Screenshot 2023-07-26 094944](https://github.com/ehsanshahrabi/Data-Collection-challenge/assets/124327258/3b3d6c31-4267-45c6-bbee-d1ff757b688a)
